@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "sss_setup.h": "c",
+        "sss_matvec.h": "c",
+        "sss_inter.h": "c",
+        "sss_solve.h": "c",
+        "sss_main.h": "c",
+        "sss_cycle.h": "c",
+        "sss_smooth.h": "c",
+        "sss_cuda.h": "c",
+        "cuda.h": "c",
+        "sss_utils.h": "c",
+        "sss_coarsen.h": "c",
+        "omp.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
