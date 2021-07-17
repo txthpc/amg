@@ -1,4 +1,4 @@
-# amg
+# A simple CPU-GPU AMG framework by Xiaotian Tian
 We have developed an AMG framework for CPU-GPU heterogeneous environment. The current framework has been basically completed, but it still needs to be improved. We are optimizing it.
 
 
